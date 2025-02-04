@@ -92,6 +92,7 @@ a {
 }
 
 .modal-navigation button{
+    font-family: "Comic Neue", sans-serif;
     border: none;
     background-color: black;
     color: #ffffff;
